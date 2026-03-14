@@ -1,3 +1,3 @@
 SIMPLE PASSWORD GENERATOR :
 
--Simple-Password-Generator
+ -Simple-Password-Generator
